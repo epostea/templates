@@ -9,6 +9,16 @@
       "label": "input1",
       "hidden": false,
       "immutable": false
+    },
+    {
+      "name": "param2",
+      "default": "abc123",
+      "type": "string",
+      "required": true,
+      "secured": false,
+      "label": "input2",
+      "hidden": false,
+      "immutable": false
     }
   ]
 }
