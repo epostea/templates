@@ -1,0 +1,15 @@
+{
+  "template_input_params": [
+    {
+      "name": "param1",
+      "default": "abc123",
+      "type": "string",
+      "required": true,
+      "secured": false,
+      "label": "input1",
+      "hidden": false,
+      "immutable": false
+    }
+  ]
+}
+
