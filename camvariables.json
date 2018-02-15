@@ -1,4 +1,10 @@
 {
+  "input_namespaces": [
+    {
+      "name": "datatype1",
+      "label": "My datatype"
+    }
+   ],
   "template_input_params": [
     {
       "name": "param1",
