@@ -1,7 +1,7 @@
 {
   "input_namespaces": [
     {
-      "name": "datatype1",
+      "name": "ContentRuntime",
       "label": "My datatype"
     }
    ],
