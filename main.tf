@@ -2,6 +2,10 @@ variable "param1" {
   default = "us-east-1"
 }
 
+variable "param2" {
+  default = "us-east-2"
+}
+
 resource "random_id" "test_random" {
   keepers = {
     test_id = "abc123"
